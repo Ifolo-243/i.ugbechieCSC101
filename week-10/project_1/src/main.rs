@@ -17,7 +17,3 @@ fn main() {
     println!("The total cost for purchasing 3 laptops from each brand is ${}", total_cost);
 }
 
-
-
-    println!("Hello, world!");
-}
